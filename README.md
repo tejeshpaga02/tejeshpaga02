@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics projects involving SQL, Python, Power BI, and business intelligence.<br><br>🌱 I’m currently learning Advanced SQL, Statistics, BigQuery, and Data Analytics on Google Cloud.<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, Dashboard Development, and Data Visualization projects.<br><br>🤔 I’m looking for help with best practices in data engineering, analytics workflows, and cloud-based analytics.<br><br>💬 Ask me about SQL, Python, Power BI, Excel, EDA, RFM Segmentation, Funnel Analysis, and Dashboard Design.<br><br>📫 How to reach me: tejesh.paga@gmail.com | LinkedIn: linkedin.com/in/tejesh-paga<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I transitioned from Mechanical Engineering to Data Analytics and enjoy turning raw data into actionable business insights.
+📊 Currently working on Data Analytics projects involving SQL, Python, Power BI, and Business Intelligence.
+
+📚 Currently learning Advanced SQL, Statistics, BigQuery, and Google Cloud Data Analytics.
+
+🤝 Open to collaborating on Data Analytics, Business Intelligence, Dashboard Development, and Data Visualization projects.
+
+🎯 Seeking opportunities to apply data-driven problem solving to real-world business challenges.
+
+💡 Ask me about SQL, Python, Power BI, Excel, EDA, RFM Segmentation, Funnel Analysis, and KPI Dashboard Design.
+
+📫 Reach me at: tejesh.paga@gmail.com
+🔗 LinkedIn: linkedin.com/in/tejesh-paga
+
+⚡ Fun Fact: Transitioned from Mechanical Engineering to Data Analytics and enjoy uncovering actionable insights from complex datasets.
 
 
 ## 🌐 Socials:
